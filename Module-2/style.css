@@ -4,8 +4,5 @@ h1{
   
 }
 p{
-text-align: centre ;
-  text-decoration: bold;
-  text-color: Green;
-  font-size: 14px;
+  color: Green;
 }
