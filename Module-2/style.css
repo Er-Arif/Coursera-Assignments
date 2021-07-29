@@ -1,12 +1,11 @@
 h1{
   font-size: 40px;
-  color: DarkCyan;
+  color: Blue;
   
 }
-p1{
+p{
 text-align: centre ;
   text-decoration: bold;
   text-color: Green;
-  size: 12px;
   font-size: 14px;
 }
